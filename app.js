@@ -140,9 +140,6 @@
 //   });
 // }
 
-const todo = [
-   
-]
 
 
 window.addEventListener('load', () => {
